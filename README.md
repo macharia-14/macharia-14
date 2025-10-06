@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💻 I'm currently working on: an Animal Breed Registry System 🐄 powered by Postgresql and FastAPI.<br><br>🤝 I'm looking to collaborate on: data-driven web apps and AI tools that solve real-world problems in agriculture and finance.<br><br>🧩 I'm looking for help with: optimizing FastAPI performance and structuring scalable PostgreSQL databases.<br><br>📚 I'm currently learning: Generative AI, PostgreSQL optimization, API security, and modern frontend design.<br><br>💬 Ask me about: cybersecurity 🔐, web app security best practices, building full stack applications or integrating APIS (yep, SMS too!).<br><br>😄 Fun fact: I treat bugs like side quests — unexpected, but always worth fixing 🕹️🐛.
+💻 I'm currently working on: an Animal Breed Registry System 🐄 powered by Postgresql and FastAPI.<br><br>🤝 I'm looking to collaborate on: data-driven web apps and AI tools that solve real-world problems in agriculture and finance.<br><br>🧩 I'm looking for help with: optimizing FastAPI performance and structuring scalable PostgreSQL databases.<br><br>📚 I'm currently learning: Generative AI, PostgreSQL optimization, API security, and modern frontend design.<br><br>💬 Ask me about: cybersecurity 🔐, web app security best practices, building full stack applications or integrating APIS (yep, SMS too!).<br><br>😄 Fun fact: I treat bugs like side quests unexpected, but always worth fixing 🕹️🐛.
 
 
 ## 🌐 Socials:
